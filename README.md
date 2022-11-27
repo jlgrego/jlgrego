@@ -15,4 +15,3 @@ Engenheiro civil, cursando MBA em Data Science e Analytics pela USP/Esalq.
 
 Conhecimento em Linguagem R e Python, com ênfase em análise espacial aplicada às avaliações de imóveis urbanos 🏡 
 
-Busco contribuir com a comunidade através da análise de dados 🖐️
